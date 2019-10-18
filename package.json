@@ -1,0 +1,20 @@
+{
+  "name": "bouwe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bouwe K. Westerdijk <bouwe@bouwe.nl> (https://bouwe.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bouwe77/bouwe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bouwe77/bouwe/issues"
+  },
+  "homepage": "https://github.com/bouwe77/bouwe#readme",
+  "description": "me"
+}
